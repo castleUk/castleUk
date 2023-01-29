@@ -13,6 +13,11 @@ A developer who living today for tomorrow's dream.
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
+### App Development
+![](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+![](https://img.shields.io/badge/Dart-0078D4?style=flat-square&logo=Dart&logoColor=white)
+![](https://img.shields.io/badge/Flutter-0078D4?style=flat-square&logo=Flutter&logoColor=white)
+
 
 💪🏼 Tools 
 
